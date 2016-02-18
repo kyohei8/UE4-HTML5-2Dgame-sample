@@ -1,0 +1,14 @@
+{
+  "name": "html5",
+  "version": "1.0.0",
+  "description": "This folder contains pre compressed files ready for deployment, please make sure to use the shipping build for final deployment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
