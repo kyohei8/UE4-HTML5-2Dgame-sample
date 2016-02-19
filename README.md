@@ -1,13 +1,16 @@
-A game made with Unreal Engine 4 was published in HTML5
+sample of Unreal Engine 4 game was published in HTML5 婚
+---
 
-Refs
-http://unrealengine.hatenablog.com/entry/2015/09/01/212147
+Refs:  (thanks a lot 駐)
 
-Paper 2D 入門：UE4日本語チュートリアル
+Paper 2D 蜈･髢�ｼ啅E4譌･譛ｬ隱槭メ繝･繝ｼ繝医Μ繧｢繝ｫ
 https://www.youtube.com/playlist?list=PLr_Cbd4sUDTwRXRqlkp9HgndZ2i8s5m3f
 
+http://unrealengine.hatenablog.com/entry/2015/09/01/212147
+
+### install & start
 ```
 $npm i
 $node server.js
 ```
-open http://localhost:59798/sample2D.html
+and open http://localhost:59798/sample2D.html
